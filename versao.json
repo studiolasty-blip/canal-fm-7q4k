@@ -1,0 +1,12 @@
+{
+ "versao": "1.17",
+ "arquivo": "pacotes/fabrica-de-motion-1.17.zip",
+ "sha256": "cae39816d837aad023ee6657333015fbc9ffc68894d3aebde03b2341c8fc1932",
+ "notas": [
+  "Atualizações chegam sozinhas: o painel avisa e o botão Atualizar instala",
+  "No Windows, o botão Novo cliente passou a funcionar",
+  "A tela de recados explica onde o Claude responde",
+  "O instalador se recupera sozinho de download interrompido e de disco cheio"
+ ],
+ "data": "2026-10-12"
+}
