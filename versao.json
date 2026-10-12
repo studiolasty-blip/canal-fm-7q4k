@@ -1,12 +1,11 @@
 {
- "versao": "1.17",
- "arquivo": "pacotes/fabrica-de-motion-1.17.zip",
- "sha256": "cae39816d837aad023ee6657333015fbc9ffc68894d3aebde03b2341c8fc1932",
+ "versao": "1.18",
+ "arquivo": "pacotes/fabrica-de-motion-1.18.zip",
+ "sha256": "eb19fac44264d12236c8f443b0a6e40709592bff34453cff0df98afe764199b3",
  "notas": [
-  "Atualizações chegam sozinhas: o painel avisa e o botão Atualizar instala",
-  "No Windows, o botão Novo cliente passou a funcionar",
-  "A tela de recados explica onde o Claude responde",
-  "O instalador se recupera sozinho de download interrompido e de disco cheio"
+  "No Windows, o Claude agora responde dentro do painel, como no Mac",
+  "Botão Conectar minha conta: liga a conversa do painel à sua conta do Claude",
+  "O instalador do Windows já instala o Claude de terminal"
  ],
  "data": "2026-10-12"
 }
