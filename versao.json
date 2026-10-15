@@ -1,11 +1,15 @@
 {
- "versao": "1.18",
- "arquivo": "pacotes/fabrica-de-motion-1.18.zip",
- "sha256": "eb19fac44264d12236c8f443b0a6e40709592bff34453cff0df98afe764199b3",
+ "versao": "1.19",
+ "arquivo": "pacotes/fabrica-de-motion-1.19.zip",
+ "sha256": "a4d9e71ae47d12d5f0f9d4d511038cf38a55fd126ee7cc238f74d26c42b4e796",
  "notas": [
-  "No Windows, o Claude agora responde dentro do painel, como no Mac",
-  "Botão Conectar minha conta: liga a conversa do painel à sua conta do Claude",
-  "O instalador do Windows já instala o Claude de terminal"
+  "Tela Produção: clientes em colunas por fase (Não começou, Em produção, Revisar, Concluído), arrastar para mudar e filtro de data",
+  "Abas com nomes mais claros: Clientes, Entregas e Modelos; Configurações na engrenagem",
+  "Conversa mais limpa: o progresso do Claude num quadradinho só, e prévia ao vivo das cenas ao lado",
+  "Arrastar e colar arquivos e modelos em qualquer lugar da tela do cliente",
+  "Claude lê o Instagram e o site do cliente e manda primeiro a narração pronta para o ElevenLabs",
+  "Windows: a rotina do vídeo (ferramentas, ffmpeg, render, copiar e mover) não pede mais permissão",
+  "Conectar a conta do Claude pelo navegador, sem terminal"
  ],
- "data": "2026-10-12"
+ "data": "2026-10-15"
 }
