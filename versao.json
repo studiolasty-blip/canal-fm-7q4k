@@ -1,10 +1,9 @@
 {
- "versao": "1.22",
- "arquivo": "pacotes/fabrica-de-motion-1.22.zip",
- "sha256": "36446eddbe35ab12e65e4509dc1fc1d9c30f856fa83315ec4f67228db712a124",
+ "versao": "1.23",
+ "arquivo": "pacotes/fabrica-de-motion-1.23.zip",
+ "sha256": "3851047f0b01ed328087ece9b9e53e6d8c9bfd11720b68b3d41d4fa6b56b2acc",
  "notas": [
-  "Modelos: saíram os vídeos da própria Fábrica de Motion e do Creative Radar; ficam 17 vídeos de clientes",
-  "Os modelos foram regravados no formato de cor que abre em qualquer tocador e no painel"
+  "Quem atualiza deixa de ver os modelos da própria Fábrica de Motion e do Creative Radar; ficam os 17 vídeos de clientes"
  ],
  "data": "2026-10-15"
 }
