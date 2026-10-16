@@ -1,11 +1,9 @@
 {
- "versao": "1.20",
- "arquivo": "pacotes/fabrica-de-motion-1.20.zip",
- "sha256": "64ce2fc8f6db8cff0e2ea7e801691a04b6ca1f88e33e18789bf435036e6afd67",
+ "versao": "1.21",
+ "arquivo": "pacotes/fabrica-de-motion-1.21.zip",
+ "sha256": "4eab44676c609766ba957780c81327ee88164e521f30234459a2e48d8c046edd",
  "notas": [
-  "Clientes virou um painel de controle: números do dia, gráfico das entregas dos últimos 14 dias, quem está em produção e quem espera você",
-  "A Produção (quadro) e o Relatório foram para a aba Entregas, junto com o mural de vídeos",
-  "O visualizador fica sempre na coluna à esquerda da conversa e troca sozinho para o vídeo pronto quando o trabalho termina"
+  "O Claude trabalha sem pedir permissão: lê sites, Instagram e bancos de imagens sem cartão; continuam recusados sudo, arquivos de senha e apagar fora das pastas de trabalho"
  ],
  "data": "2026-10-15"
 }
