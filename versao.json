@@ -1,9 +1,10 @@
 {
- "versao": "1.21",
- "arquivo": "pacotes/fabrica-de-motion-1.21.zip",
- "sha256": "4eab44676c609766ba957780c81327ee88164e521f30234459a2e48d8c046edd",
+ "versao": "1.22",
+ "arquivo": "pacotes/fabrica-de-motion-1.22.zip",
+ "sha256": "36446eddbe35ab12e65e4509dc1fc1d9c30f856fa83315ec4f67228db712a124",
  "notas": [
-  "O Claude trabalha sem pedir permissão: lê sites, Instagram e bancos de imagens sem cartão; continuam recusados sudo, arquivos de senha e apagar fora das pastas de trabalho"
+  "Modelos: saíram os vídeos da própria Fábrica de Motion e do Creative Radar; ficam 17 vídeos de clientes",
+  "Os modelos foram regravados no formato de cor que abre em qualquer tocador e no painel"
  ],
  "data": "2026-10-15"
 }
