@@ -1,9 +1,9 @@
 {
- "versao": "1.25",
- "arquivo": "pacotes/fabrica-de-motion-1.25.zip",
- "sha256": "1e298d9e20329b3fff7460c1186e439f297c0dfbb98ea83a832989aaafc345de",
+ "versao": "1.26",
+ "arquivo": "pacotes/fabrica-de-motion-1.26.zip",
+ "sha256": "6904f5fa8d18c58c8669612ed2e79fa745019439f94f391b929c1e817dc59d80",
  "notas": [
-  "Dashboard: os vídeos modelo que vêm com a skill não entram mais nos números nem no gráfico de entregas"
+  "Anexos maiores: fotos, áudios e vídeos de até 2 GB na conversa (antes era 300 MB)"
  ],
  "data": "2026-10-16"
 }
