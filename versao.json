@@ -1,9 +1,9 @@
 {
- "versao": "1.23",
- "arquivo": "pacotes/fabrica-de-motion-1.23.zip",
- "sha256": "3851047f0b01ed328087ece9b9e53e6d8c9bfd11720b68b3d41d4fa6b56b2acc",
+ "versao": "1.24",
+ "arquivo": "pacotes/fabrica-de-motion-1.24.zip",
+ "sha256": "d845c83b9b7bc3b0fe46dfcad21ec5f5870aba0d4d3fc07c1b1aacba61d32262",
  "notas": [
-  "Quem atualiza deixa de ver os modelos da própria Fábrica de Motion e do Creative Radar; ficam os 17 vídeos de clientes"
+  "Visualizador: a prévia só aparece enquanto o Claude trabalha; quando ele termina, volta o último vídeo (antes, uma análise com fotos e prints deixava a prévia no lugar do vídeo pronto)"
  ],
  "data": "2026-10-15"
 }
