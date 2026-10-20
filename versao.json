@@ -1,11 +1,12 @@
 {
- "versao": "1.27",
- "arquivo": "pacotes/fabrica-de-motion-1.27.zip",
- "sha256": "0761cea1bcf4dc91f14873942eaedf49e23e0d2a5342331dc93c5c6e71330fea",
+ "versao": "1.28",
+ "arquivo": "pacotes/fabrica-de-motion-1.28.zip",
+ "sha256": "8d4eda97cd650ae966ef659d9f62cf9ce7272165a6577283266331160631f088",
  "notas": [
-  "Instalação no Mac com macOS 13 ou 14: o vídeo de teste agora renderiza (o FFmpeg do Remotion é ajustado sozinho)",
-  "Instalador: corrigida a mensagem 'nenhum modelo antigo para retirarFALHOU'",
-  "Painel: busca de cliente também na aba Clientes"
+  "Pack 50 Estilos: quem comprou o Pack só baixa o zip e o painel importa sozinho os 50 estilos como modelos",
+  "Filtro por nicho nos modelos (Destaques, Comércio, Saúde, Educação, Imóveis, Serviços)",
+  "Ao usar um estilo do Pack como modelo, o Claude recebe junto o código e a ficha do estilo",
+  "Instalador: mensagens de erro sem texto embolado"
  ],
  "data": "2026-10-20"
 }
