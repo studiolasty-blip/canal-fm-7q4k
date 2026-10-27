@@ -1,12 +1,9 @@
 {
- "versao": "1.28",
- "arquivo": "pacotes/fabrica-de-motion-1.28.zip",
- "sha256": "8d4eda97cd650ae966ef659d9f62cf9ce7272165a6577283266331160631f088",
+ "versao": "1.29",
+ "arquivo": "pacotes/fabrica-de-motion-1.29.zip",
+ "sha256": "37caecbbad9ac4b45ba3e0e0b48646d2a535e8a8ec9c12f56890b99bb70d1dd4",
  "notas": [
-  "Pack 50 Estilos: quem comprou o Pack só baixa o zip e o painel importa sozinho os 50 estilos como modelos",
-  "Filtro por nicho nos modelos (Destaques, Comércio, Saúde, Educação, Imóveis, Serviços)",
-  "Ao usar um estilo do Pack como modelo, o Claude recebe junto o código e a ficha do estilo",
-  "Instalador: mensagens de erro sem texto embolado"
+  "Padrão de animação novo: texto por máscara, molas suaves e transições em que um elemento vira a próxima cena"
  ],
- "data": "2026-10-20"
+ "data": "2026-10-27"
 }
